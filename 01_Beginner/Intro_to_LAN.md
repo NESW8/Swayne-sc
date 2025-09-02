@@ -37,4 +37,4 @@ Introduction aux réseaux locaux (LAN), leurs composants et protocoles.
 - Comment **ARP** permet d’associer IP et MAC.  
 - Comment **DHCP** distribue automatiquement les adresses IP aux appareils.  
 
-_Room complétée le : 01/09/2025
+_Room complétée le : 01/09/2025_
