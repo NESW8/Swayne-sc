@@ -19,9 +19,8 @@ Je documente ici ma progression en cybersécurité (réseaux, systèmes, web, et
 - [Intro to LAN](01_Beginner/Intro_to_LAN.md)
 - [OSI Model](01_Beginner/OSI_Model.md)
 - [Packets & Frames](01_Beginner/Packets_&_Frames.md)
-
-### 🔜 À venir (01_Beginner)
 - [Network Expansion](01_Beginner/Network_Expansion.md)
+### 🔜 À venir (01_Beginner)
 - [DNS in Detail](01_Beginner/DNS_in_Detail.md)
 - [HTTP in Detail](01_Beginner/HTTP_in_Detail.md)
 - [How Websites Work](01_Beginner/How_Websites_Work.md)
