@@ -18,13 +18,13 @@ La room se termine par un mini-jeu interactif simulant l’ouverture de portes p
 ## 🛠️ Outils et concepts
 - **OSI Model** : Physical, Data Link, Network, Transport, Session, Presentation, Application.
 - **Protocoles et exemples** :
-  - **Couche 1 – Physical** : câbles, hubs, fibre optique.
-  - **Couche 2 – Data Link** : Ethernet, ARP, adresses MAC.
-  - **Couche 3 – Network** : IP, ICMP, routeurs.
-  - **Couche 4 – Transport** : TCP, UDP, ports.
-  - **Couche 5 – Session** : gestion de session, NetBIOS.
-  - **Couche 6 – Presentation** : SSL/TLS, chiffrement, compression.
-  - **Couche 7 – Application** : HTTP, DNS, SMTP.
+  - **Layer 1 – Physical** : câbles, hubs, fibre optique.
+  - **Layer 2 – Data Link** : Ethernet, ARP, adresses MAC.
+  - **Layer 3 – Network** : IP, ICMP, routeurs.
+  - **Layer 4 – Transport** : TCP, UDP, ports.
+  - **Layer 5 – Session** : gestion de session, NetBIOS.
+  - **Layer 6 – Presentation** : SSL/TLS, chiffrement, compression.
+  - **Layer 7 – Application** : HTTP, DNS, SMTP.
 - **Concepts clés** : encapsulation, adressage, protocoles, interaction inter-couches.
 
 ---
