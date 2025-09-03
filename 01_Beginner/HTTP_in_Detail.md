@@ -76,3 +76,5 @@ Elle couvre :
 - Comprendre le rôle des en-têtes dans les échanges client/serveur.
 - Utiliser et interpréter les cookies pour la gestion de session.
 - Construire des requêtes HTTP manuellement pour interagir avec un serveur.
+
+Room complétée le : 03/09/2025
