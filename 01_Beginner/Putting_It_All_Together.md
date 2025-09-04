@@ -52,4 +52,4 @@ Un exercice interactif consistant à replacer dans l'ordre les étapes du charge
 ---
 
 📅 **Date** : 2025-09-04  
-🏷 **TryHackMe Room** : [Putting It All Together](https://tryhackme.com)
+
