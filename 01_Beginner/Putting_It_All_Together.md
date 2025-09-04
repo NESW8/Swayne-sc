@@ -51,5 +51,5 @@ Un exercice interactif consistant à replacer dans l'ordre les étapes du charge
 
 ---
 
-📅 **Date** : 2025-09-04  
+_Room complétée le : 04/09/2025_
 
