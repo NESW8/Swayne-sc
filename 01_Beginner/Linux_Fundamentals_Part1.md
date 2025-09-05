@@ -101,3 +101,5 @@ echo hello >> welcome
 ---
 
 ✅ **Prochaine étape** : Passer à **Linux Fundamentals Part 2** pour approfondir la gestion des permissions, processus et scripts.
+
+_Room complétée le : 05/09/2025_
