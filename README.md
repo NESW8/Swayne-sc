@@ -32,7 +32,7 @@ Je documente ici ma progression en cybersécurité (réseaux, systèmes, web, et
 - [Windows Fundamentals Part 2](01_Beginner/Windows_Fundamentals_Part_2.md)
 - [Windows Fundamentals Part 3](01_Beginner/Windows_Fundamentals_Part_3.md)
 
-### 🧭 À classer plus tard (si tu fais les intros Cyber)
+### 🧭 À classer
 - [Offensive Security Intro](01_Beginner/Offensive_Security_Intro.md)
 - [Defensive Security Intro](01_Beginner/Defensive_Security_Intro.md)
 - [Careers in Cyber](01_Beginner/Cyber_Careers.md)
