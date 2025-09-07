@@ -88,4 +88,4 @@ Apprendre les bases de l'utilisation du système d'exploitation Windows, y compr
 
 ---
 
-_Room complétée le 
+_Room complétée le : 07/09/2025_
