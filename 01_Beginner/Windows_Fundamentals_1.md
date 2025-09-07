@@ -88,4 +88,4 @@ Apprendre les bases de l'utilisation du système d'exploitation Windows, y compr
 
 ---
 
-✅ **Room TryHackMe complétée à 100%** : *Windows Fundamentals 1*
+_Room complétée le 
