@@ -75,3 +75,5 @@ Il met l'accent sur l'automatisation, la gestion des paquets, et la surveillance
 - Automatisation via **cron**.
 - Gestion de paquets avec **APT**.
 - Lecture et analyse des **logs** pour la sécurité et la maintenance.
+
+_Room complétée le : 07/09/2025_
