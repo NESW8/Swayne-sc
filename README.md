@@ -1,7 +1,9 @@
 # 🛡️ Cyber Security Learning Journey – TryHackMe Reports
 
-> **De l'initiation aux techniques avancées** – Ce dépôt documente ma progression en cybersécurité à travers des rapports TryHackMe, structurés et réutilisables.  
-> Inspiré du [Cyber Security Learning Roadmap](https://tryhackme.com/path) officiel.
+🎓 **Certifications :**  
+🏅 [Introduction to Cyber Security – TryHackMe](lien) | 🏅 [Pre Security Path – TryHackMe](lien)  
+
+> **De l'initiation aux techniques avancées** – Ce dépôt documente ma progression en cybersécurité à travers des rapports TryHackMe, structurés et réutilisables.
 
 ---
 
