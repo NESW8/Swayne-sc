@@ -28,7 +28,6 @@ Je documente ici ma progression en cybersécurité (réseaux, systèmes, web, et
 - [Linux Fundamentals Part 2](01_Beginner/Linux_Fundamentals_Part_2.md)
 - [Linux Fundamentals Part 3](01_Beginner/Linux_Fundamentals_Part_3.md)
 - [Windows Fundamentals Part 1](01_Beginner/Windows_Fundamentals_Part_1.md)
-### 🔜 À venir (01_Beginner)
 - [Windows Fundamentals Part 2](01_Beginner/Windows_Fundamentals_Part_2.md)
 - [Windows Fundamentals Part 3](01_Beginner/Windows_Fundamentals_Part_3.md)
 
