@@ -24,9 +24,9 @@
 - [Linux Fundamentals Part 3](Linux_Fundamentals_Part_3.md)  
 
 ### 🪟 Windows
-- [Windows Fundamentals Part 1](Windows_Fundamentals_Part_1.md)  
-- [Windows Fundamentals Part 2](Windows_Fundamentals_Part_2.md)  
-- [Windows Fundamentals Part 3](Windows_Fundamentals_Part_3.md)  
+- [Windows Fundamentals 1](Windows_Fundamentals_1.md)  
+- [Windows Fundamentals 2](Windows_Fundamentals_2.md)  
+- [Windows Fundamentals 3](Windows_Fundamentals_3.md)  
 
 ---
 
