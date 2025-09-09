@@ -88,5 +88,3 @@ Windows Fundamentals 2 approfondit la maîtrise des outils intégrés de Windows
 - Accéder aux paramètres avancés via **MSConfig** et d'autres utilitaires.
 
 ---
-
-**Auteur** : Rapport généré depuis l'étude de la room TryHackMe *Windows Fundamentals 2*.
