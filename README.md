@@ -1,37 +1,36 @@
-# TryHackMe Reports
+# 📗 TryHackMe – Beginner Path
 
-Ce dépôt contient mes rapports TryHackMe.  
-Je documente ici ma progression en cybersécurité (réseaux, systèmes, web, etc.).
-
----
-
-## 📁 Structure
-- `01_Beginner/` → Rooms d’intro (LAN, OSI, Linux basics…)
-- `02_Intermediate/` → Scans, exploitation, privesc
-- `03_Advanced/` → Scénarios complets / CTF
+> Ce dossier regroupe mes rapports pour les rooms d’introduction.  
+> **Objectif** : acquérir les bases en réseaux, systèmes et web pour progresser vers des scénarios plus avancés.
 
 ---
 
-## 🧾 Rooms
+## ✅ Rooms terminées
 
-### ✅ Terminées (01_Beginner)
-- [Networking](01_Beginner/Networking.md)
-- [Intro to LAN](01_Beginner/Intro_to_LAN.md)
-- [OSI Model](01_Beginner/OSI_Model.md)
-- [Packets & Frames](01_Beginner/Packets_&_Frames.md)
-- [Network Expansion](01_Beginner/Network_Expansion.md)
-- [DNS in Detail](01_Beginner/DNS_in_Detail.md)
-- [HTTP in Detail](01_Beginner/HTTP_in_Detail.md)
-- [How Websites Work](01_Beginner/How_Websites_Work.md)
-- [Putting it All Together](01_Beginner/Putting_it_All_Together.md)
-- [Linux Fundamentals Part 1](01_Beginner/Linux_Fundamentals_Part_1.md)
-- [Linux Fundamentals Part 2](01_Beginner/Linux_Fundamentals_Part_2.md)
-- [Linux Fundamentals Part 3](01_Beginner/Linux_Fundamentals_Part_3.md)
-- [Windows Fundamentals Part 1](01_Beginner/Windows_Fundamentals_Part_1.md)
-- [Windows Fundamentals Part 2](01_Beginner/Windows_Fundamentals_Part_2.md)
-- [Windows Fundamentals Part 3](01_Beginner/Windows_Fundamentals_Part_3.md)
+### 🌐 Networking & Internet
+- [Networking](Networking.md)  
+- [Intro to LAN](Intro_to_LAN.md)  
+- [OSI Model](OSI_Model.md)  
+- [Packets & Frames](Packets_&_Frames.md)  
+- [Network Expansion](Network_Expansion.md)  
+- [DNS in Detail](DNS_in_Detail.md)  
+- [HTTP in Detail](HTTP_in_Detail.md)  
+- [How Websites Work](How_Websites_Work.md)  
+- [Putting it All Together](Putting_it_All_Together.md)  
 
-### 🧭 À classer
-- [Offensive Security Intro](01_Beginner/Offensive_Security_Intro.md)
-- [Defensive Security Intro](01_Beginner/Defensive_Security_Intro.md)
-- [Careers in Cyber](01_Beginner/Cyber_Careers.md)
+### 💻 Linux
+- [Linux Fundamentals Part 1](Linux_Fundamentals_Part_1.md)  
+- [Linux Fundamentals Part 2](Linux_Fundamentals_Part_2.md)  
+- [Linux Fundamentals Part 3](Linux_Fundamentals_Part_3.md)  
+
+### 🪟 Windows
+- [Windows Fundamentals Part 1](Windows_Fundamentals_Part_1.md)  
+- [Windows Fundamentals Part 2](Windows_Fundamentals_Part_2.md)  
+- [Windows Fundamentals Part 3](Windows_Fundamentals_Part_3.md)  
+
+---
+
+## 🧭 Rooms à classer
+- [Offensive Security Intro](Offensive_Security_Intro.md)  
+- [Defensive Security Intro](Defensive_Security_Intro.md)  
+- [Careers in Cyber](Cyber_Careers.md)  
