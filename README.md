@@ -1,7 +1,7 @@
 # 🛡️ Cyber Security Learning Journey – TryHackMe Reports
 
 🎓 **Certifications :**  
-🏅 [Pre Security Path – TryHackMe](lien)  
+🏅 [Pre Security Path – TryHackMe](THM-7Z2MQXNRFS.pdf)  
 
 > **De l'initiation aux techniques avancées** – Ce dépôt documente ma progression en cybersécurité à travers des rapports TryHackMe, structurés et réutilisables.
 
