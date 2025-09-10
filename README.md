@@ -16,7 +16,7 @@
 
 ### 2️⃣ 🛡️ **Cybersecurity 101** *(En cours)*  
 *Renforcement des bases, méthodes d’attaque/défense, introduction au pentest*  
-➡️ [Voir les rapports](02_Cybersecurity101/README.md)
+➡️ [Voir les rapports](02_Cybesecurity101/README.md)
 
 ---
 
