@@ -1,7 +1,8 @@
 # 🛡️ Cyber Security Learning Journey – TryHackMe Reports
 
 🎓 **Certifications :**  
-🏅 [Pre Security Path – TryHackMe](THM-7Z2MQXNRFS.pdf)  
+🏅 [Pre Security Path – TryHackMe](THM-7Z2MQXNRFS.pdf) ✅ *Terminé*  
+🔒 Cybersecurity 101 – [TryHackMe](https://tryhackme.com/) *(En cours)*  
 
 > **De l'initiation aux techniques avancées** – Ce dépôt documente ma progression en cybersécurité à travers des rapports TryHackMe, structurés et réutilisables.
 
@@ -21,6 +22,10 @@
 *Introduction aux métiers et spécialisations en cybersécurité*  
 ➡️ [Voir les rapports](01_Beginner/README.md)
 
+### 4️⃣ 🛡️ **Cybersecurity 101** *(En cours)*  
+*Renforcement des bases, méthodes d’attaque/défense, introduction au pentest*  
+➡️ [Voir les rapports](04_Cybersecurity101/README.md)
+
 ---
 
 ## 📂 Structure du dépôt
@@ -29,6 +34,12 @@
 | `01_Beginner/` | Bases réseaux, systèmes, web |
 | `02_Intermediate/` | Scans, exploitation, élévation de privilèges |
 | `03_Advanced/` | CTF & scénarios réalistes |
+| `04_Cybersecurity101/` | Consolidation des bases, méthodologies, scénarios pratiques |
+
+---
+
+## 📊 Progression
+`Pre Security Path` ✅ | `Cybersecurity 101` 🟡 | `Offensive Pentesting` 🔜
 
 ---
 
