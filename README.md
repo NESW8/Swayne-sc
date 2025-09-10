@@ -10,21 +10,13 @@
 
 ## 📍 Roadmap de progression
 
-### 1️⃣ 🖥️ **Computer Science Basics**  
+### 1️⃣ 🖥️ **Pre Security (Terminé)*  
 *Bases réseaux et fonctionnement d’Internet*  
 ➡️ [Voir les rapports](01_Beginner/README.md)
 
-### 2️⃣ 🔐 **Cyber Security Foundations**  
-*Maîtrise des systèmes Linux et Windows*  
-➡️ [Voir les rapports](01_Beginner/README.md)
-
-### 3️⃣ 🎯 **Cyber Security Career Skills**  
-*Introduction aux métiers et spécialisations en cybersécurité*  
-➡️ [Voir les rapports](01_Beginner/README.md)
-
-### 4️⃣ 🛡️ **Cybersecurity 101** *(En cours)*  
+### 2️⃣ 🛡️ **Cybersecurity 101** *(En cours)*  
 *Renforcement des bases, méthodes d’attaque/défense, introduction au pentest*  
-➡️ [Voir les rapports](04_Cybersecurity101/README.md)
+➡️ [Voir les rapports](02_Cybersecurity101/README.md)
 
 ---
 
@@ -32,14 +24,7 @@
 | Dossier | Contenu |
 |---------|---------|
 | `01_Beginner/` | Bases réseaux, systèmes, web |
-| `02_Intermediate/` | Scans, exploitation, élévation de privilèges |
-| `03_Advanced/` | CTF & scénarios réalistes |
-| `04_Cybersecurity101/` | Consolidation des bases, méthodologies, scénarios pratiques |
-
----
-
-## 📊 Progression
-`Pre Security Path` ✅ | `Cybersecurity 101` 🟡 | `Offensive Pentesting` 🔜
+| `02_Cybersecurity101/` | Consolidation des bases, méthodologies, scénarios pratiques |
 
 ---
 
@@ -48,8 +33,3 @@
 - **Réseaux** : OSI, TCP/IP, DNS, HTTP
 - Pentest & sécurité offensive/défensive
 - Analyse & documentation technique
-
----
-
-💼 **LinkedIn** : [Ton lien ici]  
-🔗 **TryHackMe** : [Ton profil ici]
