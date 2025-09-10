@@ -10,7 +10,7 @@
 
 ## 📍 Roadmap de progression
 
-### 1️⃣ 🖥️ **Pre Security (Terminé)*  
+### 1️⃣ 🖥️ **Pre Security** *(Terminé)*  
 *Bases réseaux et fonctionnement d’Internet*  
 ➡️ [Voir les rapports](01_Beginner/README.md)
 
