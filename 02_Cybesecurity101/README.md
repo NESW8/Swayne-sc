@@ -10,6 +10,9 @@
 ### 🚀 Start Your Cyber Security Journey
 - [Search Skills](Search_Skills.md)
 
+### Windows and AD Fundamentals
+- [Active Directory Basics](Active_Directory_Basics.md)
+
 ##  Rooms en cours
   
 ### 🌐 Networking
