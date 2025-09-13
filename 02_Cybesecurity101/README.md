@@ -13,6 +13,9 @@
 ### Windows and AD Fundamentals
 - [Active Directory Basics](Active_Directory_Basics.md)
 
+### Command Line
+- [Windows Command Line](Windows_command_Line.md)
+
 ##  Rooms en cours
   
 ### 🌐 Networking
