@@ -16,6 +16,7 @@
 ### 💻 Command Line
 - [Windows Command Line](Windows_Command_Line.md)
 - [Windows PowerShell](Windows_PowerShell.md)
+- [Linux Shells](Linux_Shells.md)
 
 ##  Rooms en cours
   
