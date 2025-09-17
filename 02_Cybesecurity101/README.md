@@ -20,11 +20,10 @@
 
 ### 🌐 Networking
 - [Networking Concepts](Networking_Concepts.md)
-  
+- [Networking Essentials](Networking_Essentials.md)  
 ##  Rooms en cours
   
 ### 🌐 Networking
-- [Networking Essentials](Networking_Essentials.md)  
 - [Networking Core Protocols](Networking_Core_Protocols.md)  
 - [Networking Secure Protocols](Networking_Secure_Protocols.md)  
 - [Wireshark: The Basics](Wireshark_Basics.md)  
